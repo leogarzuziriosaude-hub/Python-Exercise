@@ -1,0 +1,2 @@
+k = int(input('Digite qualquer número inteiro e direi a tabuada (sim, eu sou um Deus da tabuada): '))
+print('Ta de sacanagem? Essa é fácil demais, o resultado é:\n{};\n{};\n{};\n{};\n{};\n{};\n{};\n{};\n{};\n{}.'.format(k*1, k*2, k*3, k*4, k*5, k*6, k*7, k*8, k*9, k*10))
